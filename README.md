@@ -1,31 +1,31 @@
-# Blitz_Statistics-terms-of-service
-Privacy Policy for Blitz Statistics bot
-# Условия использования
+# Blitz_Statistics terms-of-service
 
-## 1. Принятие условий
+# Terms of Service
 
-Добавляя нашего бота на ваш сервер Discord, вы принимаете и соглашаетесь соблюдать условия использования.
+## 1. Acceptance of Terms
 
-## 2. Использование бота
+By adding our bot to your Discord server, you accept and agree to abide by the terms of use.
 
-Вы можете использовать нашего бота на своем сервере Discord, если вы не являетесь лицом, которому запрещено получать и использовать услугу в соответствии с действующим законодательством Соединенных Штатов или других стран, включая страну, в которой вы проживаете или из которой вы используете услугу.
+## 2. Use of the Bot
 
-## 3. Изменения в условиях
+You may use our bot on your Discord server unless you are a person barred from receiving and using the service under the applicable laws of the United States or other countries, including the country in which you reside or from which you use the service.
 
-Мы оставляем за собой право обновлять и изменять Условия использования в любое время без предварительного уведомления. Продолжение использования бота после внесения таких изменений будет считаться вашим согласием на такие изменения.
+## 3. Changes to the Terms
 
-# Политика конфиденциальности
+We reserve the right to update and change the Terms of Use at any time without prior notice. Continued use of the bot after such changes will be considered your consent to such changes.
 
-Наш бот уважает конфиденциальность своих пользователей и обязуется ее защищать.
+# Privacy Policy
 
-## 1. Информация, которую мы собираем
+Our bot respects the privacy of its users and is committed to protecting it.
 
-Наш бот хранит ID пользователя и ID сервера, а также информацию, предоставленную ему посредством использования команд. Бот использует некоторую неконфиденциальную информацию для работы с Lesta API и Wargaming API.
+## 1. Information We Collect
 
-## 2. Как мы используем вашу информацию
+Our bot stores the user ID and server ID, as well as information provided to it through the use of commands. The bot uses some non-confidential information to work with the Lesta API and Wargaming API.
 
-Мы используем собранную информацию для предоставления функциональности в Discord. Эта информация не передается третьим сторонам.
+## 2. How We Use Your Information
 
-## 3. Изменения в нашей политике конфиденциальности
+We use the collected information to provide functionality in Discord. This information is not shared with third parties.
 
-Политика нашего бота заключается в том, чтобы размещать любые изменения, которые мы вносим в нашу политику конфиденциальности, на этой странице. Если мы вносим существенные изменения в способ обработки личной информации наших пользователей, мы уведомим вас, отправив сообщение на ваш сервер Discord.
+## 3. Changes to Our Privacy Policy
+
+It is our bot's policy to post any changes we make to our privacy policy on this page. If we make significant changes to how we treat our users' personal information, we will notify you by posting a message on your Discord server.
