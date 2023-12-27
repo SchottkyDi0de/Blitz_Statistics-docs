@@ -10,7 +10,12 @@ By adding our bot to your Discord server, you accept and agree to abide by the t
 
 You may use our bot on your Discord server unless you are a person barred from receiving and using the service under the applicable laws of the United States or other countries, including the country in which you reside or from which you use the service.
 
-## 3. Changes to the Terms
+## 3. User contents
+
+User-generated content:
+By using user-generated content when using our bot you acknowledge that you are solely responsible for your content and we disclaim liability.
+
+## 4. Changes to the Terms
 
 We reserve the right to update and change the Terms of Use at any time without prior notice. Continued use of the bot after such changes will be considered your consent to such changes.
 
