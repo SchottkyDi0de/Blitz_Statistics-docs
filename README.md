@@ -35,4 +35,4 @@ We use the collected information to provide functionality in Discord and work wi
 ## 3. Changes to Our Privacy Policy
 
 It is our bot's policy to post any changes we make to our privacy policy on this page. If we make significant changes to how we treat our users' personal information, we will notify you by posting a message on support Discord server.
-Link: https://discord.gg/8sFGeG8zrA
+Link: https://discord.gg/77KttzGCWx
