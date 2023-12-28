@@ -87,13 +87,13 @@ Otherwise, an error is returned.
 ***Arguments:***
 - `image` Image file (700x1350), with the following restrictions:
   - Formats: `PNG`, `JPEG`
- -- Size of one side should not exceed 2048 px and should not be less than 256 px
- -- File size should not be more than 2MB
+  - Size of one side should not exceed 2048 px and should not be less than 256 px
+  - File size should not be more than 2MB
 - `server` If `True`, the image is applied as the default image for the server where the command was invoked. Administrator permissions on the server are required.
 - `resize_mode` Method of resizing the image (if it's not 700x1350)
- -- `AUTO`: Automatically determines the best method for resizing
- -- `RESIZE`: Resizes the image ignoring proportions, applied automatically when the deviation from the nominal size is less than `10%` in X and `15%` in Y
- -- `CROP_OR_FILL`: Crops the image and centers it if it is larger than necessary or centers it and adds a filler in the form of blurred parts of the original image if the size of the image is smaller than necessary. Does not violate the proportions of the image. Applied automatically if the deviations in size exceed the permissible values.
+  - `AUTO`: Automatically determines the best method for resizing
+  - `RESIZE`: Resizes the image ignoring proportions, applied automatically when the deviation from the nominal size is less than `10%` in X and `15%` in Y
+  - `CROP_OR_FILL`: Crops the image and centers it if it is larger than necessary or centers it and adds a filler in the form of blurred parts of the original image if the size of the image is smaller than necessary. Does not violate the proportions of the image. Applied automatically if the deviations in size exceed the permissible values.
 
 ***What it does:***
  - Saves the submitted image as the background for images with statistics.
