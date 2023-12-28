@@ -86,7 +86,7 @@ Otherwise, an error is returned.
 ### 1: `/set_background [image] <server> <resize_mode>`
 ***Arguments:***
 - `image` Image file (700x1350), with the following restrictions:
-- - Formats: `PNG`, `JPEG`
+  - Formats: `PNG`, `JPEG`
  -- Size of one side should not exceed 2048 px and should not be less than 256 px
  -- File size should not be more than 2MB
 - `server` If `True`, the image is applied as the default image for the server where the command was invoked. Administrator permissions on the server are required.
