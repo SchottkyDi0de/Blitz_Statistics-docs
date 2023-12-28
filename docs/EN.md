@@ -142,7 +142,7 @@ Otherwise, an error is returned.
 
 ### 2: `/server_settings_get`
 ***What it does:***
-- Displays the current server settings to the user, just like [`/image_settings_get`](#image_settings_get)
+- Displays the current server settings to the user, just like [`/image_settings_get`](#3-image_settings_get)
 # **Other Commands:**
 
 ### 1: `/parse_replay [replay] [region] <output_type>`
