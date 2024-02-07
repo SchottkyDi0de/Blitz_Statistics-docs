@@ -1,6 +1,6 @@
 # Содержание:
 ### Команды:
-- [Команды для настройки бота](#setup-commands)
+- [Команды для настройки бота](https://github.com/SchottkyDi0de/Blitz_Statistics-docs/blob/main/docs/RU.md#setup-commands)
 - [Команды управления игровыми сессиями](#session-control)
 
 # **Синтаксис команд**:
