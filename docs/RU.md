@@ -1,6 +1,3 @@
-- [Команды настройки](settings_command)
-- [Команды управления настройками сервера](server_settings_commands)
-
 # **Синтаксис команд**:
 
 ### `/command [arg_1] <arg_2> <arg_3>`
